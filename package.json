@@ -1,0 +1,29 @@
+{
+  "name": "goit-node.js-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "Repository for node.js-hw-01-contacts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkauchuk/goit-node.js-hw-01-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkauchuk/goit-node.js-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/tkauchuk/goit-node.js-hw-01-contacts#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2"
+  }
+}
